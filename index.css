@@ -1,0 +1,70 @@
+*{
+    margin: 0 auto;
+    background-color: blanchedalmond;
+    width:1250px;
+    padding: 25px;
+}
+button {
+    background-color: greenyellow;
+    margin-left: 30%;
+    margin-top:1.3567%;
+    border-radius: 40px;
+    width: 500px;
+    padding: 14px;
+    text-align: center;
+    font-size: 13pt;
+    
+}
+header{
+    background-color: crimson;
+    border-radius: 60px;
+    margin: 0 auto;
+    padding: 3%;
+    width: 750px;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    width: 600px;
+    border-radius: 50px;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    width: 700px;
+    border-radius: 40px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    font-size: 18pt;
+}
+.prices{
+    font-size: 26pt;
+    color:darkgreen;
+    width: 600px;
+}
+.oldprices{
+    color: red;
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    background-color:crimson;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin:0 auto;
+    width: 500px;
+    border: 1px solid black;
+}
+article{
+     border:3px solid black;
+     background-color: aliceblue;
+     border-radius: 60px;
+     margin-top: 65px;
+}
+.top{
+    background-color: aliceblue;
+    color: darkmagenta;
+    font-size: 16pt;
+
+}
